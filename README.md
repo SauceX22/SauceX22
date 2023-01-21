@@ -29,9 +29,8 @@ I am excited to continue expanding my skills in more areas of software developme
 
 
 
-### **Rapidfire**  
-<table><tr><td valign="top" width="50%">
-
+### **Rapidfire** 
+ 
 - 🔭 I’m currently working on [Student Planner](https://github.com/SauceX22/student-planner-web-app)  
   
 
@@ -41,7 +40,6 @@ I am excited to continue expanding my skills in more areas of software developme
 - ⚡ Fun fact: I love cats but don't have any   
 
 
-</td><td valign="top" width="50%">
 
 
 
