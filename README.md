@@ -60,6 +60,3 @@ I am excited to continue expanding my skills in more areas of software developme
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SauceX22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </td></tr></table>  
 
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=SuaceX22)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
