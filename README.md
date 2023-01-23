@@ -20,7 +20,7 @@
 
 I am a game developer with a passion for game development and experience in Unity 3D🎮. I have been working with Unity for 3 years and have a strong understanding of game development principles and practices. I am dedicated to creating engaging and immersive gaming experiences for players.
 
-In addition to my experience in game development, I also have experience in web development🌐. I am proficient in React and Next.js and have experience with the MERN stack, which includes MongoDB, Express.js, React, and Node.js. I am dedicated to creating dynamic, user-friendly, and full-stack web applications.
+In addition to my experience in game development, I also have experience in web development🌐. I am proficient in React and Next.js and have experience with the MERN stack, which includes MongoDB, Express.js, React, and Node.js. I am committed to creating dynamic, user-friendly, and full-stack web applications.
 
 Recently, I have been picking up Flutter for mobile development for one of my upcoming projects. I have been working with Flutter to develop and design high-performance, visually appealing, and user-friendly mobile applications. 
 
