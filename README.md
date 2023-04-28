@@ -18,20 +18,15 @@
 
 ### **Experience**
 
-I am a software developer with a passion for game development and experience in Unity 3D🎮. I have been working with Unity for 3 years and have a strong understanding of game development principles and practices. I am dedicated to creating engaging and immersive gaming experiences for players.
-
-In addition to my experience in game development, I also have experience in web development🌐. I am proficient in React and Next.js and have experience with the MERN stack, which includes MongoDB, Express.js, React, and Node.js. I am committed to creating dynamic, user-friendly, and full-stack web applications.
-
-Recently, I have been tyring to test my web dev skills, learn and expand my knowledge in areas I haven't had the opportunity to discover and I am excited to continue expanding my skills in more areas of software development.  
-  
+Passionate 3-Year Game Dev with Unity3D🎮, Full Stack Web Dev (T3 Stack, MERN Stack)🌐, Hungry for knowledge
 
 
 ### **Rapidfire** 
  
-- 🔭 I’m currently working on [Student Planner](https://github.com/SauceX22/student-planner-web-app)  
+- 🔭 Working one some private projects
   
 
-- 🐦 I’m currently learning localization with i18n  
+- 🐦 I’m currently an undergrad 
   
 
 - ⚡ Fun fact: I love cats but don't have any   
