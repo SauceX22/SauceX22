@@ -8,8 +8,7 @@
 </a>
 <a href="https://www.linkedin.com/in/mahmoud-alhussen-1b59b8213" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-
+</a>
 
 # 💫 About Me:
 
@@ -34,9 +33,9 @@ Passionate 3-Year Game Dev with Unity3D🎮, Full Stack Web Dev (T3 Stack, MERN 
 # 📊 GitHub Stats:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SauceX22/SauceX22/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SauceX22/SauceX22/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SauceX22/SauceX22/output/github-contribution-grid-snake.svg">
 </picture>
 
 ![](https://github-readme-stats.vercel.app/api?username=SauceX22&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
